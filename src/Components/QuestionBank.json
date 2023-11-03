@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "question": "Who is the CEO of Google?",
+    "options": ["Amitabh Bachchan", "Sania Mirza", "Narendra Modi", "Sundar Pichai"],
+    "answer": "Sundar Pichai"
+  },
+  {
+    "id": 2,
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "London", "Madrid", "Paris"],
+    "answer": "Paris"
+  },
+  {
+    "id": 3,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "id": 4,
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Leo Tolstoy"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 5,
+    "question": "What is the largest mammal in the world?",
+    "options": ["African Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "id": 6,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "id": 7,
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 8,
+    "question": "Who is the author of 'To Kill a Mockingbird'?",
+    "options": ["Harper Lee", "J.K. Rowling", "George Orwell", "Charles Dickens"],
+    "answer": "Harper Lee"
+  },
+  {
+    "id": 9,
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 10,
+    "question": "What is the symbol for the element oxygen on the periodic table?",
+    "options": ["Ox", "O", "Oy", "Om"],
+    "answer": "O"
+  },
+  {
+    "id": 11,
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "India", "Japan", "Thailand"],
+    "answer": "Japan"
+  },
+  {
+    "id": 12,
+    "question": "What is the currency of Brazil?",
+    "options": ["Peso", "Real", "Dollar", "Euro"],
+    "answer": "Real"
+  },
+  {
+    "id": 13,
+    "question": "In which year did Christopher Columbus discover America?",
+    "options": ["1492", "1521", "1620", "1776"],
+    "answer": "1492"
+  },
+  {
+    "id": 14,
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2H", "W2O", "H2"],
+    "answer": "H2O"
+  },
+  {
+    "id": 15,
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 16,
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mars", "Mercury", "Saturn"],
+    "answer": "Venus"
+  }
+]
